@@ -3,6 +3,6 @@
     <string name="popular_movie">Popular Movie</string>
     <string name="top_rated">Top Rated</string>
     <string name="BASE_URL">https://api.themoviedb.org/3/</string>
-    <string name="apiKey">1321120c8dd7c41e87ec065c7c678349</string>
+    <string name="apiKey">KEY</string>
 
 </resources>
